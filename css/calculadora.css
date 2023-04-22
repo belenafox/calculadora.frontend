@@ -1,7 +1,15 @@
+body {
+  background-image: url('https://thumbs.dreamstime.com/b/calculadora-un-fondo-39034340.jpg');
+}
+
+h1 {
+  background: #fff;
+}
 .calculator {
     border: 1px solid #000;
     border-radius: 5px;
     box-shadow: 0 0 5px #ccc;
+    background: #fff;
   }
   
   .calculator .output {
