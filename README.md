@@ -2,6 +2,9 @@
 
 Este proyecto es una calculadora básica que se puede usar para realizar operaciones simples de matemáticas. Está diseñado con HTML5, CSS3, Bootstrap5 y jQuery.
 
+## Link repositorio
+[Calculadora frontend](https://github.com/belenafox/calculadora.frontend).
+
 ## Características
 
 La calculadora tiene las siguientes características:
