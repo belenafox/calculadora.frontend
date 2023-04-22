@@ -1,0 +1,19 @@
+.calculator {
+    border: 1px solid #000;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #ccc;
+  }
+  
+  .calculator .output {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: right;
+  }
+  
+  .calculator .buttons {
+    padding: 10px;
+  }
+  
+  .calculator .buttons button {
+    font-size: 24px;
+  }
