@@ -9,5 +9,10 @@ function clearInput() {
 }
 
 function calculate() {
-  result.val(eval(result.val()));
+  let expression = result.val();
+  if (expression.indexOf('/0') !== -1) { // Verificar si hay una división entre cero
+    result.val('Error: División entre cero');
+    return;
+  }
+  result.val(eval(expression));
 }
